@@ -1,1 +1,1 @@
-"aquivo" 
+"arquivo" 
